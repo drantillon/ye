@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: black;
+    background-color: darkseagreen !important;
+  }  
+  li {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal !important;
+  }
+  a {
+    color: whitesmoke;
+    text-decoration: none !important;
+  }
+  a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 18px !important;
+  }
+  a.visited{
+    color: blue;
+  }
+  .resumelistheading{
+    font-weight: bold;
+    font-style: normal !important;
+  }
+  .underline
+    .bold{font-weight: bold;}
+    .justify{text-align: justify !important ;}
+
